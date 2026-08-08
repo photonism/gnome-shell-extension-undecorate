@@ -1,6 +1,6 @@
 # gnome-shell-extension-undecorate
 
-Add new item in window menu to undecorate window.
+Automatically removes window decorations from all windows.
 
 Use `ALT+Space` to show window menu.
 

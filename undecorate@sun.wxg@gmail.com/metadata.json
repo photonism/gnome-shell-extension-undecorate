@@ -3,7 +3,7 @@
     "extension-id": "undecorate",
     "gettext-domain": "gnome-shell-extensions",
     "name": "Undecorate Window",
-    "description": "Add undecorate item in window menu. Use ALT+Space to show window menu.",
+    "description": "Automatically removes window decorations from all windows.",
     "shell-version": [
         "45",
         "46",
